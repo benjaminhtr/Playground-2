@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Playground:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Playground_jar</output-path>
+    <root id="archive" name="Playground.jar">
+      <element id="module-output" name="Playground" />
+      <element id="directory" name="resources">
+        <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+      </element>
+    </root>
+  </artifact>
+</component>
